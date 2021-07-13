@@ -5,19 +5,19 @@
   "author": "Saizou Harawata",
   "cover": "https://static.wikia.nocookie.net/battle-in-5-seconds-after-meeting/images/0/0f/Volume_01.png/revision/latest?cb=20210123133737",
   "chapters": {
-    "71": {
-      "title": "The Back I Want to Follow",
-      "volume": "8",
-      "groups": {
-        "Paean Scans": "/proxy/api/imgur/chapter/2BOB9fR/"
-      },
-      "last_updated": "1625293310"
-    },
      "72": {
       "title": "Bullet Vow",
       "volume": "8",
       "groups": {
         "Palmtop Scans": "/proxy/api/imgur/chapter/EenJcpW/"
+      },
+      "last_updated": "1625293310"
+    },
+    "73": {
+      "title": "Violent Feast",
+      "volume": "8",
+      "groups": {
+        "Palmtop Scans": "/proxy/api/imgur/chapter/9SHlada/"
       },
       "last_updated": "1625293310"
     }
